@@ -1,1 +1,1 @@
-web: gunicorn -b :8000 mtv:app
+web gunicorn  mtv:app
