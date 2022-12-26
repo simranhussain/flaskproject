@@ -1,1 +1,1 @@
-web gunicorn mtv:app
+web:gunicorn mtv:app
