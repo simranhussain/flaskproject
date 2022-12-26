@@ -27,3 +27,5 @@ urllib3==1.26.11
 Werkzeug==2.2.1
 wikipedia==1.4.0
 zipp==3.8.1
+
+pml~=1.21

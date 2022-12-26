@@ -1,1 +1,1 @@
-web: gunicorn -b :$PORT mtv:app
+web: gunicorn -b :8000 mtv:app
